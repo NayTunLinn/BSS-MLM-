@@ -1,0 +1,278 @@
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Common\bin\Debug\BSS Common.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Common\bin\Debug\BSS Common.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Common\obj\Debug\BSS Common.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Common\obj\Debug\BSS Common.pdb
+D:\Projects\BSS V009 to bind\BSS Common\bin\Debug\BSS Common.dll
+D:\Projects\BSS V009 to bind\BSS Common\bin\Debug\BSS Common.pdb
+D:\Projects\BSS V009 to bind\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+D:\Projects\BSS V009 to bind\BSS Common\obj\Debug\BSS Common.dll
+D:\Projects\BSS V009 to bind\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Common\obj\Debug\BSS Common.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Common\bin\Debug\BSS Common.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Common\bin\Debug\BSS Common.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Common\obj\Debug\BSS Common.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\obj\Debug\BSS Common.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\bin\Debug\BSS Common.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\bin\Debug\BSS Common.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\obj\Debug\D.BSS Common.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\obj\Debug\BSS Common.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Common\obj\Debug\BSS Common.pdb
+D:\WEB\BSS Software\BSS Common\bin\Debug\BSS Common.dll
+D:\WEB\BSS Software\BSS Common\bin\Debug\BSS Common.pdb
+D:\WEB\BSS Software\BSS Common\obj\Debug\D.BSS Common.csprojAssemblyReference.cache
+D:\WEB\BSS Software\BSS Common\obj\Debug\D.BSS Common.csproj.CoreCompileInputs.cache
+D:\WEB\BSS Software\BSS Common\obj\Debug\BSS Common.dll
+D:\WEB\BSS Software\BSS Common\obj\Debug\BSS Common.pdb
+D:\SOFTWARE\BSS Software\BSS Common\bin\Debug\BSS Common.dll
+D:\SOFTWARE\BSS Software\BSS Common\bin\Debug\BSS Common.pdb
+D:\SOFTWARE\BSS Software\BSS Common\obj\Debug\D.BSS Common.csprojAssemblyReference.cache
+D:\SOFTWARE\BSS Software\BSS Common\obj\Debug\D.BSS Common.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\BSS Software\BSS Common\obj\Debug\BSS Common.dll
+D:\SOFTWARE\BSS Software\BSS Common\obj\Debug\BSS Common.pdb

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XsdProductSummery" targetNamespace="http://tempuri.org/XsdProductSummery.xsd" xmlns:mstns="http://tempuri.org/XsdProductSummery.xsd" xmlns="http://tempuri.org/XsdProductSummery.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AAAConnectionString4" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AAAConnectionString4 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BSSInfo.Properties.Settings.GlobalReference.Default.AAAConnectionString4" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="XsdProductSummery" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="XsdProductSummery" msprop:Generator_UserDSName="XsdProductSummery">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SubStoreSummery" msprop:Generator_TableClassName="SubStoreSummeryDataTable" msprop:Generator_TableVarName="tableSubStoreSummery" msprop:Generator_RowChangedName="SubStoreSummeryRowChanged" msprop:Generator_TablePropName="SubStoreSummery" msprop:Generator_RowDeletingName="SubStoreSummeryRowDeleting" msprop:Generator_RowChangingName="SubStoreSummeryRowChanging" msprop:Generator_RowEvHandlerName="SubStoreSummeryRowChangeEventHandler" msprop:Generator_RowDeletedName="SubStoreSummeryRowDeleted" msprop:Generator_RowClassName="SubStoreSummeryRow" msprop:Generator_UserTableName="SubStoreSummery" msprop:Generator_RowEvArgName="SubStoreSummeryRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SubStoreSummeryId" msprop:Generator_ColumnVarNameInTable="columnSubStoreSummeryId" msprop:Generator_ColumnPropNameInRow="SubStoreSummeryId" msprop:Generator_ColumnPropNameInTable="SubStoreSummeryIdColumn" msprop:Generator_UserColumnName="SubStoreSummeryId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pcode" msprop:Generator_ColumnVarNameInTable="columnPcode" msprop:Generator_ColumnPropNameInRow="Pcode" msprop:Generator_ColumnPropNameInTable="PcodeColumn" msprop:Generator_UserColumnName="Pcode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pname" msprop:Generator_ColumnVarNameInTable="columnPname" msprop:Generator_ColumnPropNameInRow="Pname" msprop:Generator_ColumnPropNameInTable="PnameColumn" msprop:Generator_UserColumnName="Pname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OpenBalance" msprop:Generator_ColumnVarNameInTable="columnOpenBalance" msprop:Generator_ColumnPropNameInRow="OpenBalance" msprop:Generator_ColumnPropNameInTable="OpenBalanceColumn" msprop:Generator_UserColumnName="OpenBalance" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Input" msprop:Generator_ColumnVarNameInTable="columnInput" msprop:Generator_ColumnPropNameInRow="Input" msprop:Generator_ColumnPropNameInTable="InputColumn" msprop:Generator_UserColumnName="Input" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Return" msprop:Generator_ColumnVarNameInTable="columnReturn" msprop:Generator_ColumnPropNameInRow="Return" msprop:Generator_ColumnPropNameInTable="ReturnColumn" msprop:Generator_UserColumnName="Return" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SubToSale" msprop:Generator_ColumnVarNameInTable="columnSubToSale" msprop:Generator_ColumnPropNameInRow="SubToSale" msprop:Generator_ColumnPropNameInTable="SubToSaleColumn" msprop:Generator_UserColumnName="SubToSale" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Office" msprop:Generator_ColumnVarNameInTable="columnOffice" msprop:Generator_ColumnPropNameInRow="Office" msprop:Generator_ColumnPropNameInTable="OfficeColumn" msprop:Generator_UserColumnName="Office" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Present" msprop:Generator_ColumnVarNameInTable="columnPresent" msprop:Generator_ColumnPropNameInRow="Present" msprop:Generator_ColumnPropNameInTable="PresentColumn" msprop:Generator_UserColumnName="Present" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SubToMain" msprop:Generator_ColumnVarNameInTable="columnSubToMain" msprop:Generator_ColumnPropNameInRow="SubToMain" msprop:Generator_ColumnPropNameInTable="SubToMainColumn" msprop:Generator_UserColumnName="SubToMain" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CloseBalance" msprop:Generator_ColumnVarNameInTable="columnCloseBalance" msprop:Generator_ColumnPropNameInRow="CloseBalance" msprop:Generator_ColumnPropNameInTable="CloseBalanceColumn" msprop:Generator_UserColumnName="CloseBalance" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="SaleStoreSummery" msprop:Generator_TableClassName="SaleStoreSummeryDataTable" msprop:Generator_TableVarName="tableSaleStoreSummery" msprop:Generator_TablePropName="SaleStoreSummery" msprop:Generator_RowDeletingName="SaleStoreSummeryRowDeleting" msprop:Generator_RowChangingName="SaleStoreSummeryRowChanging" msprop:Generator_RowEvHandlerName="SaleStoreSummeryRowChangeEventHandler" msprop:Generator_RowDeletedName="SaleStoreSummeryRowDeleted" msprop:Generator_UserTableName="SaleStoreSummery" msprop:Generator_RowChangedName="SaleStoreSummeryRowChanged" msprop:Generator_RowEvArgName="SaleStoreSummeryRowChangeEvent" msprop:Generator_RowClassName="SaleStoreSummeryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SaleStoreSummeryId" msprop:Generator_ColumnVarNameInTable="columnSaleStoreSummeryId" msprop:Generator_ColumnPropNameInRow="SaleStoreSummeryId" msprop:Generator_ColumnPropNameInTable="SaleStoreSummeryIdColumn" msprop:Generator_UserColumnName="SaleStoreSummeryId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pcode" msprop:Generator_ColumnVarNameInTable="columnPcode" msprop:Generator_ColumnPropNameInRow="Pcode" msprop:Generator_ColumnPropNameInTable="PcodeColumn" msprop:Generator_UserColumnName="Pcode">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pname" msprop:Generator_ColumnVarNameInTable="columnPname" msprop:Generator_ColumnPropNameInRow="Pname" msprop:Generator_ColumnPropNameInTable="PnameColumn" msprop:Generator_UserColumnName="Pname">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OpenBalance" msprop:Generator_ColumnVarNameInTable="columnOpenBalance" msprop:Generator_ColumnPropNameInRow="OpenBalance" msprop:Generator_ColumnPropNameInTable="OpenBalanceColumn" msprop:Generator_UserColumnName="OpenBalance" type="xs:decimal" />
+              <xs:element name="SubToSale" msprop:Generator_ColumnVarNameInTable="columnSubToSale" msprop:Generator_ColumnPropNameInRow="SubToSale" msprop:Generator_ColumnPropNameInTable="SubToSaleColumn" msprop:Generator_UserColumnName="SubToSale" type="xs:decimal" />
+              <xs:element name="Return" msprop:Generator_ColumnVarNameInTable="columnReturn" msprop:Generator_ColumnPropNameInRow="Return" msprop:Generator_ColumnPropNameInTable="ReturnColumn" msprop:Generator_UserColumnName="Return" type="xs:decimal" />
+              <xs:element name="Sold" msprop:Generator_ColumnVarNameInTable="columnSold" msprop:Generator_ColumnPropNameInRow="Sold" msprop:Generator_ColumnPropNameInTable="SoldColumn" msprop:Generator_UserColumnName="Sold" type="xs:decimal" />
+              <xs:element name="SaleToSub" msprop:Generator_ColumnVarNameInTable="columnSaleToSub" msprop:Generator_ColumnPropNameInRow="SaleToSub" msprop:Generator_ColumnPropNameInTable="SaleToSubColumn" msprop:Generator_UserColumnName="SaleToSub" type="xs:decimal" />
+              <xs:element name="CloseBalance" msprop:Generator_ColumnVarNameInTable="columnCloseBalance" msprop:Generator_ColumnPropNameInRow="CloseBalance" msprop:Generator_ColumnPropNameInTable="CloseBalanceColumn" msprop:Generator_UserColumnName="CloseBalance" type="xs:decimal" />
+              <xs:element name="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnPropNameInTable="DateColumn" msprop:Generator_UserColumnName="Date" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

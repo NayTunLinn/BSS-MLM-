@@ -1,0 +1,733 @@
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+D:\Projects\BSS V009 to bind\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+D:\WEB\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Info.dll.config
+D:\WEB\BSS Software\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojAssemblyReference.cache
+D:\WEB\BSS Software\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csproj.CoreCompileInputs.cache
+D:\WEB\BSS Software\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csproj.CopyComplete
+D:\WEB\BSS Software\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+D:\WEB\BSS Software\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.dll
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Bussiness Logic.pdb
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Common.dll
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Data Access.dll
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Info.dll
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Common.pdb
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Data Access.pdb
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Info.pdb
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\bin\Debug\BSS Info.dll.config
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csprojAssemblyReference.cache
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\obj\Debug\B.BSS Bussiness Logic.csproj.CopyComplete
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.dll
+D:\SOFTWARE\BSS Software\BSS Bussiness Logic\obj\Debug\BSS Bussiness Logic.pdb

@@ -1,0 +1,601 @@
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\bin\Debug\BSS Data Access.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\bin\Debug\BSS Data Access.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\bin\Debug\BSS Common.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\bin\Debug\BSS Info.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\bin\Debug\BSS Common.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\bin\Debug\BSS Info.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\obj\Debug\BSS Data Access.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V001\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Data Access\obj\Debug\BSS Data Access.pdb
+D:\Projects\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Data Access.dll
+D:\Projects\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Data Access.pdb
+D:\Projects\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Common.dll
+D:\Projects\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Info.dll
+D:\Projects\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Common.pdb
+D:\Projects\BSS V009 to bind\BSS Data Access\bin\Debug\BSS Info.pdb
+D:\Projects\BSS V009 to bind\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+D:\Projects\BSS V009 to bind\BSS Data Access\obj\Debug\BSS Data Access.dll
+D:\Projects\BSS V009 to bind\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 with autocomplete\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level - Without Amount\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 11.4.19\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Data Access\obj\Debug\BSS Data Access.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\bin\Debug\BSS Data Access.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\bin\Debug\BSS Data Access.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\bin\Debug\BSS Common.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\bin\Debug\BSS Info.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\bin\Debug\BSS Common.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\bin\Debug\BSS Info.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\obj\Debug\BSS Data Access.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\obj\Debug\BSS Data Access.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Data Access.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Data Access.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Common.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Info.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Common.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\bin\Debug\BSS Info.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\obj\Debug\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\obj\Debug\BSS Data Access.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Data Access\obj\Debug\BSS Data Access.pdb
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Data Access.dll
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Data Access.pdb
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Common.dll
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Info.dll
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Common.pdb
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Info.pdb
+D:\WEB\BSS Software\BSS Data Access\bin\Debug\BSS Info.dll.config
+D:\WEB\BSS Software\BSS Data Access\obj\Debug\A.BSS Data Access.csprojAssemblyReference.cache
+D:\WEB\BSS Software\BSS Data Access\obj\Debug\A.BSS Data Access.csproj.CoreCompileInputs.cache
+D:\WEB\BSS Software\BSS Data Access\obj\Debug\A.BSS Data Access.csproj.CopyComplete
+D:\WEB\BSS Software\BSS Data Access\obj\Debug\BSS Data Access.dll
+D:\WEB\BSS Software\BSS Data Access\obj\Debug\BSS Data Access.pdb
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Data Access.dll
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Data Access.pdb
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Common.dll
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Info.dll
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Common.pdb
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Info.pdb
+D:\SOFTWARE\BSS Software\BSS Data Access\bin\Debug\BSS Info.dll.config
+D:\SOFTWARE\BSS Software\BSS Data Access\obj\Debug\A.BSS Data Access.csprojAssemblyReference.cache
+D:\SOFTWARE\BSS Software\BSS Data Access\obj\Debug\A.BSS Data Access.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\BSS Software\BSS Data Access\obj\Debug\A.BSS Data Access.csproj.CopyComplete
+D:\SOFTWARE\BSS Software\BSS Data Access\obj\Debug\BSS Data Access.dll
+D:\SOFTWARE\BSS Software\BSS Data Access\obj\Debug\BSS Data Access.pdb

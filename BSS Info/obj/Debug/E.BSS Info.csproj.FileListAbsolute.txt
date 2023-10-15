@@ -1,0 +1,436 @@
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Info\bin\Debug\BSS Info.dll.config
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Info\bin\Debug\BSS Info.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Info\bin\Debug\BSS Info.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Info\obj\Debug\BSS Info.dll
+c:\users\robert\documents\visual studio 2010\Projects\Bussiness System Soft\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V002\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V003\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V005\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung & Aung Aung\Bussiness System Soft V006\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\Bussiness System Soft V007 - Copy (2)\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V007 CKK (2)\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V008\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V008\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V008\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V008\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V008\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Soft\BSS V008 - Upgrade DataGrid\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind\BSS Info\obj\Debug\BSS Info.pdb
+D:\Projects\BSS V009 to bind\BSS Info\bin\Debug\BSS Info.dll.config
+D:\Projects\BSS V009 to bind\BSS Info\bin\Debug\BSS Info.dll
+D:\Projects\BSS V009 to bind\BSS Info\bin\Debug\BSS Info.pdb
+D:\Projects\BSS V009 to bind\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+D:\Projects\BSS V009 to bind\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+D:\Projects\BSS V009 to bind\BSS Info\obj\Debug\BSS Info.dll
+D:\Projects\BSS V009 to bind\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V009 to bind 3 - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0010 After Sale - Final\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0011 - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSS V0012 Franco - Copy (2)\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 by Franco - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0014 - New Add\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV0014 - New Add - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - New Add - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Hanni\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy - Copy - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last Return - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\All Complete\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\All Complete\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\All Complete\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - By Month Level\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\Aung Aung Software\All Complete - Final 11.4.19\BSS Info\obj\Debug\BSS Info.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Info\bin\Debug\BSS Info.dll.config
+D:\My Project\All Complete - Final 26.4.19\BSS Info\bin\Debug\BSS Info.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Info\bin\Debug\BSS Info.pdb
+D:\My Project\All Complete - Final 26.4.19\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+D:\My Project\All Complete - Final 26.4.19\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+D:\My Project\All Complete - Final 26.4.19\BSS Info\obj\Debug\BSS Info.dll
+D:\My Project\All Complete - Final 26.4.19\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\All Complete - Final 26.4.19 By SYC - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\For Present And Office Use Insert - Copy\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\For  Office Original -(insert Ficial)\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My Software\Last Update(16-Sep-19)\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\My System Software\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\BSS Info.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\bin\Debug\BSS Info.dll.config
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\bin\Debug\BSS Info.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\bin\Debug\BSS Info.pdb
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\BSS Info.dll
+C:\Users\AAA\Desktop\Last Update(26-Nov-19) - Add Lingzhi Book\Last Update(26-Nov-19) - Add Lingzhi Book\BSS Info\obj\Debug\BSS Info.pdb
+D:\WEB\BSS Software\BSS Info\bin\Debug\BSS Info.dll.config
+D:\WEB\BSS Software\BSS Info\bin\Debug\BSS Info.dll
+D:\WEB\BSS Software\BSS Info\bin\Debug\BSS Info.pdb
+D:\WEB\BSS Software\BSS Info\obj\Debug\E.BSS Info.csprojAssemblyReference.cache
+D:\WEB\BSS Software\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+D:\WEB\BSS Software\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.cache
+D:\WEB\BSS Software\BSS Info\obj\Debug\E.BSS Info.csproj.CoreCompileInputs.cache
+D:\WEB\BSS Software\BSS Info\obj\Debug\BSS Info.dll
+D:\WEB\BSS Software\BSS Info\obj\Debug\BSS Info.pdb
+D:\SOFTWARE\BSS Software\BSS Info\bin\Debug\BSS Info.dll.config
+D:\SOFTWARE\BSS Software\BSS Info\bin\Debug\BSS Info.dll
+D:\SOFTWARE\BSS Software\BSS Info\bin\Debug\BSS Info.pdb
+D:\SOFTWARE\BSS Software\BSS Info\obj\Debug\E.BSS Info.csprojAssemblyReference.cache
+D:\SOFTWARE\BSS Software\BSS Info\obj\Debug\BSSInfo.PropertySelling.Property_Selling.resources
+D:\SOFTWARE\BSS Software\BSS Info\obj\Debug\E.BSS Info.csproj.GenerateResource.cache
+D:\SOFTWARE\BSS Software\BSS Info\obj\Debug\E.BSS Info.csproj.CoreCompileInputs.cache
+D:\SOFTWARE\BSS Software\BSS Info\obj\Debug\BSS Info.dll
+D:\SOFTWARE\BSS Software\BSS Info\obj\Debug\BSS Info.pdb

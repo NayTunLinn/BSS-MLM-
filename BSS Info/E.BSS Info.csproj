@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7411F75A-0D8F-4887-B6C5-0C2A10709F56}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BSSInfo</RootNamespace>
+    <AssemblyName>BSS Info</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="HeaderDetailReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HeaderDetailReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PropertySelling\Property Selling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertySelling\Property Selling.Designer.cs">
+      <DependentUpon>Property Selling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Test.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdCodeSetup.cs">
+      <DependentUpon>xsdCodeSetup.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdCodeSetup.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdCodeSetup.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdCommession.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdCommession.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdMainstore.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdMainstore.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="XsdProductSummery.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>XsdProductSummery.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdRegister.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdRegister.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdReturn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdReturn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdSale.cs">
+      <DependentUpon>xsdSale.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdSale.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdSale.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdSaleReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdSaleReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdSaleReturn.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdSaleReturn.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdSubStore.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdSubStore.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="xsdSummary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xsdSummary.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HeaderDetailReport.xsc">
+      <DependentUpon>HeaderDetailReport.xsd</DependentUpon>
+    </None>
+    <None Include="HeaderDetailReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HeaderDetailReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="HeaderDetailReport.xss">
+      <DependentUpon>HeaderDetailReport.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Test.xsc">
+      <DependentUpon>Test.xsd</DependentUpon>
+    </None>
+    <None Include="Test.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Test.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Test.xss">
+      <DependentUpon>Test.xsd</DependentUpon>
+    </None>
+    <None Include="xsdCodeSetup.xsc">
+      <DependentUpon>xsdCodeSetup.xsd</DependentUpon>
+    </None>
+    <None Include="xsdCodeSetup.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdCodeSetup.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="xsdCodeSetup.xss">
+      <DependentUpon>xsdCodeSetup.xsd</DependentUpon>
+    </None>
+    <None Include="xsdCommession.xsc">
+      <DependentUpon>xsdCommession.xsd</DependentUpon>
+    </None>
+    <None Include="xsdCommession.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdCommession.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="xsdCommession.xss">
+      <DependentUpon>xsdCommession.xsd</DependentUpon>
+    </None>
+    <None Include="xsdMainstore.xsc">
+      <DependentUpon>xsdMainstore.xsd</DependentUpon>
+    </None>
+    <None Include="xsdMainstore.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdMainstore.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsdMainstore.xss">
+      <DependentUpon>xsdMainstore.xsd</DependentUpon>
+    </None>
+    <None Include="XsdProductSummery.xsc">
+      <DependentUpon>XsdProductSummery.xsd</DependentUpon>
+    </None>
+    <None Include="XsdProductSummery.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>XsdProductSummery.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="XsdProductSummery.xss">
+      <DependentUpon>XsdProductSummery.xsd</DependentUpon>
+    </None>
+    <None Include="xsdRegister.xsc">
+      <DependentUpon>xsdRegister.xsd</DependentUpon>
+    </None>
+    <None Include="xsdRegister.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdRegister.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="xsdRegister.xss">
+      <DependentUpon>xsdRegister.xsd</DependentUpon>
+    </None>
+    <None Include="xsdReturn.xsc">
+      <DependentUpon>xsdReturn.xsd</DependentUpon>
+    </None>
+    <None Include="xsdReturn.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdReturn.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsdReturn.xss">
+      <DependentUpon>xsdReturn.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSale.xsc">
+      <DependentUpon>xsdSale.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSale.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdSale.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="xsdSale.xss">
+      <DependentUpon>xsdSale.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSaleReport.xsc">
+      <DependentUpon>xsdSaleReport.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSaleReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdSaleReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="xsdSaleReport.xss">
+      <DependentUpon>xsdSaleReport.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSaleReturn.xsc">
+      <DependentUpon>xsdSaleReturn.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSaleReturn.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdSaleReturn.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="xsdSaleReturn.xss">
+      <DependentUpon>xsdSaleReturn.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSubStore.xsc">
+      <DependentUpon>xsdSubStore.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSubStore.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdSubStore.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsdSubStore.xss">
+      <DependentUpon>xsdSubStore.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSummary.xsc">
+      <DependentUpon>xsdSummary.xsd</DependentUpon>
+    </None>
+    <None Include="xsdSummary.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>xsdSummary.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="xsdSummary.xss">
+      <DependentUpon>xsdSummary.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="PropertySelling\Property Selling.resx">
+      <DependentUpon>Property Selling.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,28 @@
+﻿------ Build started: Project: D.BSS Common, Configuration: Release Any CPU ------
+  D.BSS Common -> C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Common\bin\Release\BSS Common.dll
+------ Build started: Project: E.BSS Info, Configuration: Release Any CPU ------
+  E.BSS Info -> C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\bin\Release\BSS Info.dll
+------ Build started: Project: A.BSS Data Access, Configuration: Release Any CPU ------
+  A.BSS Data Access -> C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Data Access.dll
+------ Build started: Project: B.BSS Bussiness Logic, Configuration: Release Any CPU ------
+  B.BSS Bussiness Logic -> C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Bussiness Logic\bin\Release\BSS Bussiness Logic.dll
+------ Build started: Project: C.BSS Software, Configuration: Release x86 ------
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\SMerchant.cs(24,16): warning CS0414: The field 'BSSSoftware.CodeSetup.SMerchant.gender' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\SMerchant.cs(27,15): warning CS0414: The field 'BSSSoftware.CodeSetup.SMerchant.DefaultImage' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\SMerchant.cs(28,16): warning CS0169: The field 'BSSSoftware.CodeSetup.SMerchant.Pic_Array' is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Division.cs(25,16): warning CS0414: The field 'BSSSoftware.CodeSetup.Division.gender' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Supplier.cs(20,16): warning CS0414: The field 'BSSSoftware.CodeSetup.Supplier.gender' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Wholesale.cs(24,16): warning CS0414: The field 'BSSSoftware.CodeSetup.Wholesale.gender' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Wholesale.cs(26,15): warning CS0414: The field 'BSSSoftware.CodeSetup.Wholesale.DefaultImage' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Wholesale.cs(27,16): warning CS0169: The field 'BSSSoftware.CodeSetup.Wholesale.Pic_Array' is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Merchant.cs(21,16): warning CS0414: The field 'BSSSoftware.CodeSetup.Merchant.gender' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Merchant.cs(23,15): warning CS0414: The field 'BSSSoftware.CodeSetup.Merchant.DefaultImage' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Merchant.cs(24,16): warning CS0169: The field 'BSSSoftware.CodeSetup.Merchant.Pic_Array' is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Retailer.cs(23,16): warning CS0414: The field 'BSSSoftware.CodeSetup.Retailer.gender' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Retailer.cs(25,15): warning CS0414: The field 'BSSSoftware.CodeSetup.Retailer.DefaultImage' is assigned but its value is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\CodeSetup\Retailer.cs(26,16): warning CS0169: The field 'BSSSoftware.CodeSetup.Retailer.Pic_Array' is never used
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\ProductSale\Sale.cs(32,40): warning CS0414: The field 'BSSSoftware.ProductSale.Sale.InvDetailDataTable' is assigned but its value is never used
+
+Compile complete -- 0 errors, 15 warnings
+  C.BSS Software -> C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Software.exe
+========== Build: 5 succeeded or up-to-date, 0 failed, 0 skipped ==========

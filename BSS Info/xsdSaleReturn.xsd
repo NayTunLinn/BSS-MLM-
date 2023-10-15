@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="xsdSaleReturn" targetNamespace="http://tempuri.org/xsdSaleReturn.xsd" xmlns:mstns="http://tempuri.org/xsdSaleReturn.xsd" xmlns="http://tempuri.org/xsdSaleReturn.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AAAConnectionString3" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AAAConnectionString3 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BSSInfo.Properties.Settings.GlobalReference.Default.AAAConnectionString3" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="xsdSaleReturn" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="xsdSaleReturn" msprop:Generator_UserDSName="xsdSaleReturn">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SaleReturnInvoice" msprop:Generator_TableClassName="SaleReturnInvoiceDataTable" msprop:Generator_TableVarName="tableSaleReturnInvoice" msprop:Generator_TablePropName="SaleReturnInvoice" msprop:Generator_RowDeletingName="SaleReturnInvoiceRowDeleting" msprop:Generator_RowChangingName="SaleReturnInvoiceRowChanging" msprop:Generator_RowEvHandlerName="SaleReturnInvoiceRowChangeEventHandler" msprop:Generator_RowDeletedName="SaleReturnInvoiceRowDeleted" msprop:Generator_UserTableName="SaleReturnInvoice" msprop:Generator_RowChangedName="SaleReturnInvoiceRowChanged" msprop:Generator_RowEvArgName="SaleReturnInvoiceRowChangeEvent" msprop:Generator_RowClassName="SaleReturnInvoiceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="InvId" msprop:Generator_ColumnVarNameInTable="columnInvId" msprop:Generator_ColumnPropNameInRow="InvId" msprop:Generator_ColumnPropNameInTable="InvIdColumn" msprop:Generator_UserColumnName="InvId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UpperDistributerId" msprop:Generator_ColumnVarNameInTable="columnUpperDistributerId" msprop:Generator_ColumnPropNameInRow="UpperDistributerId" msprop:Generator_ColumnPropNameInTable="UpperDistributerIdColumn" msprop:Generator_UserColumnName="UpperDistributerId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InvNo" msprop:Generator_ColumnVarNameInTable="columnInvNo" msprop:Generator_ColumnPropNameInRow="InvNo" msprop:Generator_ColumnPropNameInTable="InvNoColumn" msprop:Generator_UserColumnName="InvNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InvDate" msprop:Generator_ColumnVarNameInTable="columnInvDate" msprop:Generator_ColumnPropNameInRow="InvDate" msprop:Generator_ColumnPropNameInTable="InvDateColumn" msprop:Generator_UserColumnName="InvDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Title" msprop:Generator_ColumnVarNameInTable="columnTitle" msprop:Generator_ColumnPropNameInRow="Title" msprop:Generator_ColumnPropNameInTable="TitleColumn" msprop:Generator_UserColumnName="Title" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TotalAmount" msprop:Generator_ColumnVarNameInTable="columnTotalAmount" msprop:Generator_ColumnPropNameInRow="TotalAmount" msprop:Generator_ColumnPropNameInTable="TotalAmountColumn" msprop:Generator_UserColumnName="TotalAmount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Desp" msprop:Generator_ColumnVarNameInTable="columnDesp" msprop:Generator_ColumnPropNameInRow="Desp" msprop:Generator_ColumnPropNameInTable="DespColumn" msprop:Generator_UserColumnName="Desp" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UpperDistName" msprop:Generator_ColumnVarNameInTable="columnUpperDistName" msprop:Generator_ColumnPropNameInRow="UpperDistName" msprop:Generator_ColumnPropNameInTable="UpperDistNameColumn" msprop:Generator_UserColumnName="UpperDistName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UpperDistCode" msprop:Generator_ColumnVarNameInTable="columnUpperDistCode" msprop:Generator_ColumnPropNameInRow="UpperDistCode" msprop:Generator_ColumnPropNameInTable="UpperDistCodeColumn" msprop:Generator_UserColumnName="UpperDistCode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IntroName" msprop:Generator_ColumnVarNameInTable="columnIntroName" msprop:Generator_ColumnPropNameInRow="IntroName" msprop:Generator_ColumnPropNameInTable="IntroNameColumn" msprop:Generator_UserColumnName="IntroName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IntroCode" msprop:Generator_ColumnVarNameInTable="columnIntroCode" msprop:Generator_ColumnPropNameInRow="IntroCode" msprop:Generator_ColumnPropNameInTable="IntroCodeColumn" msprop:Generator_UserColumnName="IntroCode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="SaleReturnInvoiceDetails" msprop:Generator_TableClassName="SaleReturnInvoiceDetailsDataTable" msprop:Generator_TableVarName="tableSaleReturnInvoiceDetails" msprop:Generator_TablePropName="SaleReturnInvoiceDetails" msprop:Generator_RowDeletingName="SaleReturnInvoiceDetailsRowDeleting" msprop:Generator_RowChangingName="SaleReturnInvoiceDetailsRowChanging" msprop:Generator_RowEvHandlerName="SaleReturnInvoiceDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="SaleReturnInvoiceDetailsRowDeleted" msprop:Generator_UserTableName="SaleReturnInvoiceDetails" msprop:Generator_RowChangedName="SaleReturnInvoiceDetailsRowChanged" msprop:Generator_RowEvArgName="SaleReturnInvoiceDetailsRowChangeEvent" msprop:Generator_RowClassName="SaleReturnInvoiceDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="InvDetailId" msprop:Generator_ColumnVarNameInTable="columnInvDetailId" msprop:Generator_ColumnPropNameInRow="InvDetailId" msprop:Generator_ColumnPropNameInTable="InvDetailIdColumn" msprop:Generator_UserColumnName="InvDetailId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InvId" msprop:Generator_ColumnVarNameInTable="columnInvId" msprop:Generator_ColumnPropNameInRow="InvId" msprop:Generator_ColumnPropNameInTable="InvIdColumn" msprop:Generator_UserColumnName="InvId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProductId" msprop:Generator_ColumnVarNameInTable="columnProductId" msprop:Generator_ColumnPropNameInRow="ProductId" msprop:Generator_ColumnPropNameInTable="ProductIdColumn" msprop:Generator_UserColumnName="ProductId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="36" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProductQty" msprop:Generator_ColumnVarNameInTable="columnProductQty" msprop:Generator_ColumnPropNameInRow="ProductQty" msprop:Generator_ColumnPropNameInTable="ProductQtyColumn" msprop:Generator_UserColumnName="ProductQty" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

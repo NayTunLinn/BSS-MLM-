@@ -1,0 +1,72 @@
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Data Access\obj\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\obj\Release\A.BSS Data Access.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\obj\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Data Access\obj\Release\BSS Data Access.pdb

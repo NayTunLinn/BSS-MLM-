@@ -1,0 +1,51 @@
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\bin\Release\BSS Info.dll.config
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Release\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Release\E.BSS Info.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Info\obj\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Release\BSSInfo.PropertySelling.Property_Selling.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Release\E.BSS Info.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Info\obj\Release\BSS Info.pdb

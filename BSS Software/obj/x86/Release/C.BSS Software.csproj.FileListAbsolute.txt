@@ -1,0 +1,508 @@
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRating.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreReport.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Return.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.ProductSell.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bussiness System Soft V008\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.Summery.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Connection.NetworkConnection.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.Summery.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Connection.NetworkConnection.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.Summery.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 9-3-19 - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Connection.NetworkConnection.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleProductSummaryReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SubStoreSummaryReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV00 16 Report To Bind After Chane 11-3-19 - CKK\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Connection.NetworkConnection.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleProductSummaryReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SubStoreSummaryReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bss Last To bind For Product\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Connection.NetworkConnection.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleProductSummaryReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SubStoreSummaryReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy\BSS Software\obj\x86\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\AAA.mdf
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\AAA_log.ldf
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Software.exe.config
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Software.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Common.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Info.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Data Access.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\MetroFramework.dll
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Common.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Info.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\bin\Release\BSS Data Access.pdb
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\C.BSS Software.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Connection.NetworkConnection.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreRecord.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStore.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.MainStoreToSubStoreReportDetail.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.InvoiceDetailReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleProductSummaryReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.SubStoreSummaryReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.SaleReturn.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSSSoftware.Return.StoreReturn.resources
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\RdlCompile.cache
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\RdlCompile.compiled
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.application
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.exe
+C:\Users\Robert\Desktop\Bss Last To bind For Product - Copy - Copy\BSS Software\obj\x86\Release\BSS Software.pdb

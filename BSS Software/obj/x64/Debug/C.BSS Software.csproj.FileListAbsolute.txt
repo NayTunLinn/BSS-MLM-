@@ -1,0 +1,57 @@
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\AAA.mdf
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\AAA_log.ldf
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Software.exe.config
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Software.application
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Software.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Bussiness Logic.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Common.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Info.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\TheGeek.Controls.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Data Access.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\MetroFramework.dll
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Bussiness Logic.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Common.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Info.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\bin\x64\Debug\BSS Data Access.pdb
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.AgentRegister.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.City.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Company.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Customer.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Merchant.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Product.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.ProfitRate.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.InvoiceView.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Retailer.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.SMerchant.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Supplier.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.CodeSetup.Wholesale.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.Main.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.ReportView.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.StoerCategory.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.StoreProduct.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.StoreRecord.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.StoreToSale.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.StoreToSaleDetailReport.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.MainStore.StoreToSaleReport.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.Bonus_View.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.BonusReport.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.InvoiceDetalis.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.ReportInvoice.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.Sale.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.SaleReportToday.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.SearchInvoice.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.Properties.Resources.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.Reporting.MerchantTreeView.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.Reporting.SaleReport.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.Reporting.testReport.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.ProductSale.Return.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSSSoftware.Return.ReturnReport.resources
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\C.BSS Software.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\RdlCompile.cache
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\RdlCompile.compiled
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSS Software.exe.manifest
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSS Software.application
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSS Software.exe
+C:\Users\Robert\Desktop\BSSV0015 for Tree View\BSS Software\obj\x64\Debug\BSS Software.pdb

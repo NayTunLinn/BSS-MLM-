@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{57209F09-5465-4BE1-955E-A627FB0B08EB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BSSBussinessLogic</RootNamespace>
+    <AssemblyName>BSS Bussiness Logic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CodeSetupControls\CityControl.cs" />
+    <Compile Include="CodeSetupControls\CompanyControl.cs" />
+    <Compile Include="CodeSetupControls\CustomerControl.cs" />
+    <Compile Include="CodeSetupControls\DivisionControl.cs" />
+    <Compile Include="CodeSetupControls\NationalityControl.cs" />
+    <Compile Include="CodeSetupControls\ProductControl.cs" />
+    <Compile Include="CodeSetupControls\ProfitrateControl.cs" />
+    <Compile Include="CodeSetupControls\RaceControl.cs" />
+    <Compile Include="CodeSetupControls\ReligionControl.cs" />
+    <Compile Include="CodeSetupControls\StoreProductControl.cs" />
+    <Compile Include="FourStepsControls\MerchantControl.cs" />
+    <Compile Include="FourStepsControls\RetailerControl.cs" />
+    <Compile Include="FourStepsControls\SMerchantControl.cs" />
+    <Compile Include="CodeSetupControls\SupplierControl.cs" />
+    <Compile Include="CodeSetupControls\TownshipControl.cs" />
+    <Compile Include="FourStepsControls\WholesaleControl.cs" />
+    <Compile Include="ProductSaleControl\BonusControls.cs" />
+    <Compile Include="ProductSaleControl\GeneralControl.cs" />
+    <Compile Include="ProductSaleControl\SaleControl.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportingControls\AllProductSummeryControls.cs" />
+    <Compile Include="ReportingControls\SaleReportControl.cs" />
+    <Compile Include="ReportingControls\SubStoreSummaryControls.cs" />
+    <Compile Include="ReturnControls\SaleReturnControl.cs" />
+    <Compile Include="ReturnControls\SubStoreReturnControl.cs" />
+    <Compile Include="StoreControls\CategoryControl.cs" />
+    <Compile Include="StoreControls\MainStoreControl.cs" />
+    <Compile Include="StoreControls\MainStoreToSubStoreControl.cs" />
+    <Compile Include="StoreControls\StoreToSaleControl.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BSS Common\D.BSS Common.csproj">
+      <Project>{CB620A71-D825-4174-A3A3-8FA68BE724AE}</Project>
+      <Name>D.BSS Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BSS Data Access\A.BSS Data Access.csproj">
+      <Project>{281BD1F9-756C-4F2C-9653-858D4DE41E2C}</Project>
+      <Name>A.BSS Data Access</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BSS Info\E.BSS Info.csproj">
+      <Project>{7411F75A-0D8F-4887-B6C5-0C2A10709F56}</Project>
+      <Name>E.BSS Info</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
