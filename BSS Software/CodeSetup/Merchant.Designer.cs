@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnNew = new System.Windows.Forms.Button();
@@ -143,7 +143,7 @@
             this.panel1.Controls.Add(this.btnEdit);
             this.panel1.Location = new System.Drawing.Point(2, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1146, 53);
+            this.panel1.Size = new System.Drawing.Size(1249, 53);
             this.panel1.TabIndex = 51;
             // 
             // btnNew
@@ -160,7 +160,7 @@
             // 
             this.btnClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btnClose.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnClose.Location = new System.Drawing.Point(1060, 15);
+            this.btnClose.Location = new System.Drawing.Point(1163, 15);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 46;
@@ -260,7 +260,7 @@
             this.panel2.Controls.Add(this.dgvMerchant);
             this.panel2.Location = new System.Drawing.Point(7, 59);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1141, 512);
+            this.panel2.Size = new System.Drawing.Size(1244, 607);
             this.panel2.TabIndex = 52;
             // 
             // panelEntry
@@ -308,7 +308,7 @@
             this.panelEntry.Controls.Add(this.txtPhone);
             this.panelEntry.Controls.Add(this.txtNRCNO);
             this.panelEntry.Controls.Add(this.txtCode);
-            this.panelEntry.Location = new System.Drawing.Point(24, 65);
+            this.panelEntry.Location = new System.Drawing.Point(26, 35);
             this.panelEntry.Name = "panelEntry";
             this.panelEntry.Size = new System.Drawing.Size(1143, 644);
             this.panelEntry.TabIndex = 0;
@@ -696,19 +696,19 @@
             // 
             this.dgvMerchant.AllowUserToAddRows = false;
             this.dgvMerchant.AllowUserToDeleteRows = false;
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.Honeydew;
-            this.dgvMerchant.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Honeydew;
+            this.dgvMerchant.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvMerchant.BackgroundColor = System.Drawing.Color.White;
             this.dgvMerchant.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvMerchant.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(177)))), ((int)(((byte)(89)))));
-            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.PaleTurquoise;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvMerchant.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(177)))), ((int)(((byte)(89)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.PaleTurquoise;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvMerchant.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvMerchant.ColumnHeadersHeight = 30;
             this.dgvMerchant.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dgvMerchant.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -748,7 +748,7 @@
             this.dgvMerchant.ReadOnly = true;
             this.dgvMerchant.RowHeadersWidth = 30;
             this.dgvMerchant.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvMerchant.Size = new System.Drawing.Size(1141, 512);
+            this.dgvMerchant.Size = new System.Drawing.Size(1244, 607);
             this.dgvMerchant.TabIndex = 45;
             this.dgvMerchant.DataBindingComplete += new System.Windows.Forms.DataGridViewBindingCompleteEventHandler(this.dataGridView_DataBindingComplete);
             this.dgvMerchant.RowsAdded += new System.Windows.Forms.DataGridViewRowsAddedEventHandler(this.dataGridView_RowsAdded);
@@ -847,9 +847,9 @@
             // colDOB
             // 
             this.colDOB.DataPropertyName = "DOB";
-            dataGridViewCellStyle6.Format = "d";
-            dataGridViewCellStyle6.NullValue = null;
-            this.colDOB.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle3.Format = "d";
+            dataGridViewCellStyle3.NullValue = null;
+            this.colDOB.DefaultCellStyle = dataGridViewCellStyle3;
             this.colDOB.HeaderText = "DOB";
             this.colDOB.Name = "colDOB";
             this.colDOB.ReadOnly = true;
@@ -967,7 +967,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.btnClose;
-            this.ClientSize = new System.Drawing.Size(1148, 574);
+            this.ClientSize = new System.Drawing.Size(1251, 669);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.MaximizeBox = false;
